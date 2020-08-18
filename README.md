@@ -1,7 +1,7 @@
-### Hi there, I'm Thomas 👋
+# Hi there, I'm Thomas 👋
 
 
-## I'm a fullstack web developer based in Paris.
+## Welcome to my Github page, It's great to meet you here!🙂
 
 - 🔭 I’m currently working on different project!
 - 🌱 I’m currently learning everything (I'm very curious) 🤣
