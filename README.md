@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on different project!
 - 🌱 I’m currently learning everything (I'm very curious) 🤣
 - 👯 I love collaborate with others people
-- 🥅 2020/2021 Goals: Contribute more to Open Source projects (maybe create my own ?)
+- 🥅 I code mainly in Java and Javascript
 
 
 
