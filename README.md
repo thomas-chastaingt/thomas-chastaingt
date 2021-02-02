@@ -1,4 +1,4 @@
-# Hi there, I'm Thomas 👋
+# Hi there, I'm Thomas React and Golang developer 👋
 ![](https://github.com/thomas-chastaingt/thomas-chastaingt/blob/master/assets/header_.png)
 ## Welcome to my Github page, It's great to meet you here!🙂
 
