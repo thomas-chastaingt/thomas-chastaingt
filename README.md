@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on different project!
 - 🌱 I’m currently learning everything (I'm very curious) 🤣
 - 👯 I love collaborate with others people
-- 🥅 I code mainly in JavaScript and Golang (already work on Python, Java and C/C++ too)
+- 🥅 I code mainly in Golang (but already work on Python, TypeScript, Java and C/C++ too)
 
 
 
