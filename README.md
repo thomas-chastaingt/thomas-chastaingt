@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on various personnal project mainly in Golang !
 - 🌱 I’m currently learning about complex algorithm and electronical system
 - 👯 I love collaborate with others people
-- 🥅 I code mainly in Java, TypeScript and Golang. I already worked on Python for data analysis and C/C++ to learn embedded system programming.
+- 🥅 I code mainly in Java, C/C++ and Golang. I also worked on JavaScript and PHP for web development and Python for data analysis
 
 
 
