@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on various personnal project to test some coding tricks ;)
 - 🌱 I’m currently learning about complex algorithm and software architecture
 - 👯 I love collaborate and discuss with others people 
-- 🥅 I code mainly in Java and Golang maybe Scala soon ;)
-
+- 🥅 I code mainly in Java and Golang "maybe" Scala soon
 
 
 
