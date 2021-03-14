@@ -6,6 +6,4 @@
 - 🌱 I’m currently learning about complex algorithm and software architecture
 - 👯 I love collaborate and discuss with others people 
 - 🥅 I code mainly in Java and Golang "maybe" Scala soon
-
-
-
+( Already worked on C/C++ mainly at University and web development)
